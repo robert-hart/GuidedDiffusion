@@ -3,7 +3,7 @@ This Python package is a modified version of [OpenAI's 'Guided Diffusion' codeba
 
 This fork contains small modifications and additions to the codebase such as to facilitate the reproduction of diffusion results reported by 'Training a Diffusion Model to Create Biometrically Unique Iris Textures'.
 
-To install this Python package, please download this repository and uncompress it. Then, navigate to the repository in your terminal and run the following line of code: 
+To install this Python package, run the following lines of code in your terminal:
 
 ```
 wget https://github.com/robert-hart/IrisDB-GuidedDiffusion/archive/refs/heads/main.zip
