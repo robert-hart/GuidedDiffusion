@@ -1,10 +1,26 @@
-# guided-diffusion
+The purpose of this codebase is to provide the data and code necessary to replicate Training a Diffusion Model to Create Biometrically Unique Iris Textures. 
 
-This is the codebase for [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
 
-This repository is based on [openai/improved-diffusion](https://github.com/openai/improved-diffusion), with modifications for classifier conditioning and architecture improvements.
 
-# Download pre-trained models
+
+# Pre-processing
+
+
+
+
+# OpenAI's 'Guided Diffusion' Fork
+This codebase  [OpenAI's 'Guided Diffusion' codebase](https://github.com/openai/guided-diffusion), which was prepared in conjunction with [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233). 
+
+The installation instructions for this repository the same 
+
+# Installation
+
+In
+
+
+# Download model
+
+The 
 
 We have released checkpoints for the main models in the paper. Before using these models, please review the corresponding [model card](model-card.md) to understand the intended use and limitations of these models.
 
