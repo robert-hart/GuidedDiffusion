@@ -18,4 +18,4 @@ The data required to replicate our results with this codebase is availible upon 
 
 # Parameters: Training and Sampling
 
-Bash scripts with our training parameters and sampling parameters are called 'train.sh' and 'sample.sh', respectively.
+Bash scripts with our training parameters and sampling parameters are called 'train.sh' and 'sample.sh', respectively. Before running these scripts, make sure to change filepaths and other parameters as instructed in each script's respective comments.
