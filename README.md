@@ -1,9 +1,24 @@
-The purpose of this codebase is to provide the data and code necessary to replicate Training a Diffusion Model to Create Biometrically Unique Iris Textures. 
+The purpose of this codebase is to provide code necessary to replicate Training a Diffusion Model to Create Biometrically Unique Iris Textures. 
+
+# OpenAI's 'Guided Diffusion' Fork
+This codebase  [OpenAI's 'Guided Diffusion' codebase](https://github.com/openai/guided-diffusion), which was prepared in conjunction with [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
+
+To install this Python package, please download this repository and uncompress it. Then, navigate to the repository in your terminal and run the following line of code: 
+
+```
+pip install -e .
+```
+
+# Data availibility
+
+The required to replicate our results with this codebase is availible upon request:
+
+* Diffusion training data
+* Final diffusion model and all checkpoints
+  
 
 
 
-
-# Pre-processing
 
 
 
