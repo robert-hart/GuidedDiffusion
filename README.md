@@ -1,7 +1,7 @@
 # OpenAI's 'Guided Diffusion'
 This Python package is a modified version of [OpenAI's 'Guided Diffusion' codebase](https://github.com/openai/guided-diffusion), which was prepared by OpenAI in conjunction with their paper: [Diffusion Models Beat GANS on Image Synthesis](http://arxiv.org/abs/2105.05233).
 
-This fork contains small modifications and additions to the codebase such that the results of 'Training a Diffusion Model to Create Biometrically Unique Iris Textures' can be replicated.
+This fork contains small modifications and additions to the codebase such as to facilitate the reproduction of diffusion results reported by 'Training a Diffusion Model to Create Biometrically Unique Iris Textures'.
 
 To install this Python package, please download this repository and uncompress it. Then, navigate to the repository in your terminal and run the following line of code: 
 
