@@ -6,6 +6,9 @@ This fork contains small modifications and additions to the codebase such as to 
 To install this Python package, please download this repository and uncompress it. Then, navigate to the repository in your terminal and run the following line of code: 
 
 ```
+wget https://github.com/robert-hart/IrisDB-GuidedDiffusion/archive/refs/heads/main.zip
+unzip main.zip
+cd IrisDB-GuidedDiffusion-main
 pip install -e .
 ```
 
