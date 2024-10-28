@@ -12,9 +12,9 @@ cd IrisDB-GuidedDiffusion-main
 pip install -e .
 ```
 
-# Data availibility
+# Data availability
 
-The data required to replicate our results with this codebase is availible upon request:
+The data required to replicate our results with this codebase is available upon request:
 
 * Diffusion training data
 * Final diffusion model and all checkpoints
